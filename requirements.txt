@@ -1,0 +1,5 @@
+MIDIUtil==1.2.1
+streamlit>=1.28.0
+pandas>=2.0.0
+openpyxl>=3.1.0
+allpairspy>=2.5.0
