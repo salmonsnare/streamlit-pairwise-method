@@ -1,4 +1,4 @@
-s# AllPairs法（Pairwise法） エクセル生成アプリ
+# AllPairs法（Pairwise法） エクセル生成アプリ
 
 ## 概要
 Streamlitとallpairspyを使用したAllPairs法（Pairwise法）のエクセルファイル生成アプリケーションです。
